@@ -10,7 +10,6 @@ public class Main {
 		
 		Robo robo = new Robo(1,2,'N');
 		Robo robo2 = new Robo(3,3,'E');
-		
 		robo.turnLeft();
 		robo.move();
 		robo.turnLeft();
