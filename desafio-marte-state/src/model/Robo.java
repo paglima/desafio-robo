@@ -22,7 +22,7 @@ public class Robo {
 	}
 	
 	public void turnLeft(){
-		this.direcao = direcao.turnRight();
+		this.direcao = direcao.turnLeft();
 	}
 	
 	public void move(){
